@@ -1,0 +1,6 @@
+@Mini_projeto_Book_Samsys_HostAddress = http://localhost:5151
+
+GET {{Mini_projeto_Book_Samsys_HostAddress}}/Book/
+Accept: application/json
+
+###
